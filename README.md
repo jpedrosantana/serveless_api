@@ -5,9 +5,9 @@ Projeto realizado no webnar [Construindo Sexy APIs usando arquitetura Serveless]
 
 ### Foi necessária a instalação do  [Azure Functions Core Tools](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-run-local?tabs=windows,csharp,bash) no VSCode
 ### Principais comandos:
-**func init** - cria um novo projeto
-**func new** - cria uma nova função
-**func host start** - inicializa todas as funções criadas
+-   **func init** - cria um novo projeto
+-   **func new** - cria uma nova função
+-   **func host start** - inicializa todas as funções criadas
 
 ### Após o comando *func host start* a saída será dessa forma:
 -   **CreateProduct: [POST]**  [http://localhost:7071/api/products](http://localhost:7071/api/products)
